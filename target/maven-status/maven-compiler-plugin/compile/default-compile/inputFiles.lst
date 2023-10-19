@@ -1,0 +1,14 @@
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Jwt/JwtService.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/User/User.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Auth/AuthController.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Config/SecurityConfig.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Auth/AuthResponse.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Auth/RegisterRequest.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/DemoJwtApplication.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Config/ApplicationConfig.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Auth/LoginRequest.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/User/UserRepository.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Auth/AuthService.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Jwt/JwtAuthenticationFilter.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/Demo/DemoController.java
+/Users/xabi/Desktop/spring-boot-jwt-authentication-1.0/src/main/java/com/irojas/demojwt/User/Role.java
